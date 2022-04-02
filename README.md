@@ -3,7 +3,7 @@
   "message":"Hi!",
   "about":{
           "name": "Nguyen Hoai Thuong",
-          "pronouns": ["he","him"],
+          "gender": "male",
           "country": "Vietnam"
   },
   "contact":{
