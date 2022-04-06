@@ -9,7 +9,7 @@
   "contact":{
           "email":"nhthuong1804@gmail.com",
   },
-  "code":["java","javascript","c#"],
+  "code":["Java","JavaScript","c#","TypeScript"],
   "tools":["spring","vue"]
 }
 ```
