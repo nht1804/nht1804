@@ -9,6 +9,6 @@
   "contact":{
           "email":"nhthuong1804@gmail.com",
   },
-  "code":["Java","JavaScript","c#","TypeScript"]
+  "code":["Java","JavaScript","c#"]
 }
 ```
